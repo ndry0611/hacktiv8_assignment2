@@ -1,0 +1,30 @@
+{
+    "User": [
+        {
+            "id": 1,
+            "username": "admin",
+            "email": "admin@company.com",
+            "password": "adminNihBos"
+        },
+        {
+            "id": 2,
+            "username": "rakyat",
+            "email": "rakyat@company.com",
+            "password": "rakyatJelata"
+        }
+    ],
+    "Product": [
+        {
+            "id": 1,
+            "name": "mouse",
+            "made_in": "china",
+            "price": 200000
+        },
+        {
+            "id": 2,
+            "name": "keyboard",
+            "made_in": "indonesia",
+            "price": 1000000
+        }
+    ]
+}

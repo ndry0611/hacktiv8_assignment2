@@ -14,3 +14,6 @@ POST ('/login') -> untuk mengambil token
 GET ('/products') -> getAllProducts
 GET ('/products/id') -> getProductsById
 ```
+
+# Credentials
+Untuk login memerlukan `username` dan `password` yang dapat diambil dari `/users`
